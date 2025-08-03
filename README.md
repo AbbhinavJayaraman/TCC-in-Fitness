@@ -1,7 +1,7 @@
 # TCC-in-Fitness
 This is my second stab at the application of ML on optimizing lifting technique, inspired by my prior efforts on UT ECLAIR's Fitness Tracker Team. 
 
-The approach for this particular endeavor was to use Temporal Cycle Consistency TCC
+The approach for this particular endeavor was to use [Temporal Cycle Consistency](https://sites.google.com/view/temporal-cycle-consistency) (TCC)
 This repositiory includes the following notebooks I created to achieve my results, as well as our final report.
 
 We made use of a subset of videos from the [Qualcomm Exercise Video Dataset](https://www.qualcomm.com/developer/software/qevd-dataset)
