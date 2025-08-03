@@ -11,5 +11,7 @@ Do keep in mind that the scope of the project in its current status was a bit li
 - **tcc_paper**: This is the TCC's notebook. I debugged and got it working as far as libraries and dependencies, in May of 2025
 - **tcc_form**: This is the notebook we used to apply TCC to focus on the form of the exercise repeitions
 - **tcc_rom**: This is the notebook we used to apply TCC to focus on the range of motion (ROM) of the exercise repeitions
-- **tcc_tempo**: This is the notebook we used to apply TCC to focus on the lifting tempo (time of the contracting, holding, and lowering of the weight/resistance) of the exercise repeitions. 
+- **tcc_tempo**: This is the notebook we used to apply TCC to focus on the lifting tempo (time of the contracting, holding, and lowering of the weight/resistance) of the exercise repeitions.
+- ** pouring.zip**: needed for the tcc_paper notebook as its dataset.
 - The PDF is our final project report.
+- the jpg is a high level diagram to explain what is going on.
